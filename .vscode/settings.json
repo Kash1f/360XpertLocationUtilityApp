@@ -1,4 +1,5 @@
 {
     "editor.defaultFormatter": null,
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
+    "java.compile.nullAnalysis.mode": "disabled"
 }
